@@ -8,4 +8,4 @@ Shader for GZDoom that adds VHS and CRT without using Reshade
 
 IDDQD_1337 - Creating the Mod
 
-DRON12261 - Shader creator (probably)
+DRON12261 - VHS & CRT shader code from Doom Death Calls
